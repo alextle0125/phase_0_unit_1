@@ -1,5 +1,7 @@
 ## 8. [Comparing Favorite Websites](8_technical_blog/readme.md) Reflection
 
-Blog url: <!-- Blog URL here (remove comment)  -->
+Blog url: http://alextle0125.github.io/unit1_projects/week1_technical_blog.html
 
 Reflect on the process of researching and writing a blog post. It doesn't have to be long. Did you enjoy this? Did you get comments or views? Did you find the blog helpful to your learning? Did you find it cumbersome? Which parts did you feel best about and which did you feel less certain about?
+
+I enjoyed being able to create something with substance and something that was uniquely my own. The process of research and writing for my technical blog took some effort but effort that I found to be rewarding. I enjoyed finding a voice for my writing and expressing my critical perspective. I don't think I have any followers yet, but I guess time will tell if I'm cut out for blogging. I think this blog challenge was helpful in practicing my HTML and CSS coding. I tried to add a personal aesthetic to my blog - a simple design which I graphed on a scrap sheet of paper before writing the code for my blog. The most cumbersome part had to be thinking about what to write about. I wanted the blog to read the way I would talk to a friend. I wanted it to be insightful, casual, and a little bit entertaining. I really like the rounded peach-colored container housing the content of the blog. I think the part I was least certain about is the "DBC: Week 1 - Technical Blog" title at the top of my blog page; but unless I can come up with something more aesthetically appealing, I think it's simple and unoffensive enough to stay.
