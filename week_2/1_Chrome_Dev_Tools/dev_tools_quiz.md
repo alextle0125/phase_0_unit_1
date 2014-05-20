@@ -5,14 +5,14 @@
 ##QUIZ
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS 
-  Elements tab: allows for editting of source code
+  <p>Elements tab: allows for editting of source code</p>
   * Javascript Debugging
 
   * Performance Optimization 
-  Network tab: displays a list of specifications for each file and associated elements or files requested for download and downloaded by browser upon upload of web page
+  <p>Network tab: displays a list of specifications for each file and associated elements or files requested for download and downloaded by browser upon upload of web page</p>
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
-Crl+Shift+I
+<p>Crl+Shift+I</p>
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
