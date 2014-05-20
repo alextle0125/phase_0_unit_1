@@ -1,14 +1,18 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
-<!-- Modify the Markdown to include your answers. Don't delete the questions! -->
+<img src="https://raw.githubusercontent.com/alextle0125/phase_0_unit_1/master/week_2/1_Chrome_Dev_Tools/imgs/code_school_points.png">
 
 ##QUIZ
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS 
+  Elements tab: allows for editting of source code
   * Javascript Debugging
+
   * Performance Optimization 
+  Network tab: displays a list of specifications for each file and associated elements or files requested for download and downloaded by browser upon upload of web page
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
+Crl+Shift+I
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
