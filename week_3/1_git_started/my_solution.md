@@ -51,6 +51,15 @@ Define the following commands and describe how they work/what they do.
 - Commit locally
 <p>'git commit -m'</p>
 
+<<<<<<< HEAD
 ## Release 5: Reflection
 
 <p>Using git from the command-line is still a bit intimidating for me. I understand the operational procedures of using git and GitHub, but my fear of losing or overwritting data due to a mistakened command makes me nervous when using git from the command-line. I think more practices and precision will benefit my use of git. I experienced a little bit of difficulty interacting with the remote repo from my local computer and turned to StackOverflow, the Git documentation, and Kernel documentation; but the most useful tool in helping me through issues was the command terminal itself. I'm having a little bit of trouble understanding how exactly git is interacting with GitHub. I understand the concept of each independently, but I guess I'm not sure if there is an established link/portal that allows the local computer to easily access the remote GitHub repo. I assume that there is once GitHub is installed. I've had  to use the command-line for my most recent updates to the curriculum as the Window's GitHub app is a bit restricted. This challenge has definitely helped to solidify different functions in using git. I enjoy when I am able to successfully use git commands via the command-line, but I still find it intimidating and more complicated than using the desktop client.</p>
+=======
+## Release 5: Errors you encountered
+1. Error
+2. Solution
+3. Cause (explain the error)
+
+## Release 6: Reflection
+>>>>>>> upstream/master
