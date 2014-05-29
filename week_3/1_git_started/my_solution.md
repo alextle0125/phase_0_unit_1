@@ -45,8 +45,11 @@ Define the following commands and describe how they work/what they do.
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+<p>'git push'</p>
 - Fetch changes
+<p>'git fetch'</p>
 - Commit locally
+<p>'git commit -m'</p>
 
 ## Release 5: Reflection
 
