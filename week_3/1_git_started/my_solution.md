@@ -12,7 +12,7 @@ Define the following commands and describe how they work/what they do.
 <p>'git checkout' is used for navigating between repos or branches. It allows you to move and look at the repository or branch that you specify.</p>
 
 #### clone
-<p>'git glone' allows you to copy a repository into a new repository.</p>
+<p>'git clone' allows you to copy a repository into a new repository.</p>
 
 #### commit
 <p>'git commit' takes the files and changes made in the staging area of the current repo and updates the repo with the modifications. 'git commit' takes a "snapshot" of the modifications made - providing version control.</p>
