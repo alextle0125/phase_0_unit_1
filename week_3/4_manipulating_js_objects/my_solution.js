@@ -9,28 +9,42 @@ var terah = {
   height: 66,
   weight: 130,
   hairColor: "brown",
-  eyeColor: "brown"
-}
+  eyeColor: "brown",
+};
 
 
 
 // __________________________________________
 // Write your code below.
 
+var adam = {
+  name: "Adam",
+  spouse: terah,
+};
 
+terah = {
+  spouse: adam,
+  weight: 125,
+  eyeColor: undefined,
+};
 
-
-
-
-
+terah.spouse.spouse = terah;
+terah.children = {};
+terah.children.carson = {name: "Carson"};
+terah.children.carter = {name: "Carter"};
+terah.children.colton = {name: "Colton"};
+adam.children = terah.children;
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
+// I like to work through each problem one at a time rather than look at the assert-test code. The problem that gave me
+// the most issues was problem #6. I tried several different lines of code; for instance, nesting - which did not work.
+// It was object literal notation that eventually worked. I understood the concepts of this challenge, but really feel
+// that I need much more reinforcement of the syntax (especially when it comes to helping me differentiate my knowledge
+// of Ruby vs. Javascript syntax and limitations). This challenge helped benefit my understanding of variables, properties,
+// and values in Javascript. It was helpful to work with both forms of property/value assignment notations. I'm glad that
+// we are starting to get into "real" coding; and I, again, enjoyed the interactiveness of TDD. I don't find any of this
+// to be tedious as it all seems like good practice to develop my skills.
 // 
 
 
