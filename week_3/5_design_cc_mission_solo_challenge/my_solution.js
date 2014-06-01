@@ -67,6 +67,7 @@ this.move.XY(80, 53);
 this.say.message = "Silas";
 this.move.XY(54, 27);
 this.say.message = "RAID";
+this.attack.groupSize = 5;
 
 
 // Reflection
